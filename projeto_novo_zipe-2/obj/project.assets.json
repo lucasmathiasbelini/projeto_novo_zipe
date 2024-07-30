@@ -32826,11 +32826,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\projeto_novo_zipe-2\\projeto_novo_zipe-2\\projeto_novo_zipe-2.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\projeto_novo_zipe-1\\projeto_novo_zipe-2\\projeto_novo_zipe-2.csproj",
       "projectName": "projeto_novo_zipe-2",
-      "projectPath": "C:\\Users\\Aluno\\projeto_novo_zipe-2\\projeto_novo_zipe-2\\projeto_novo_zipe-2.csproj",
+      "projectPath": "C:\\Users\\Aluno\\projeto_novo_zipe-1\\projeto_novo_zipe-2\\projeto_novo_zipe-2.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\projeto_novo_zipe-2\\projeto_novo_zipe-2\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\projeto_novo_zipe-1\\projeto_novo_zipe-2\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [
