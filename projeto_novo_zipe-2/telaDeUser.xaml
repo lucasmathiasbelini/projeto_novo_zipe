@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="projeto_novo_zipe-2.telaDeUser"
+             Title="Cadastro">
+
+    <Grid BackgroundColor="#444444"
+          Padding="20"
+          VerticalOptions="Center"
+          HorizontalOptions="Center">
+
+        <StackLayout VerticalOptions="Center" HorizontalOptions="FillAndExpand" Spacing="10">
+
+            <Label Text="CADASTRO"
+                   HorizontalOptions="Center"
+                   FontSize="24"
+                   TextColor="White" />
+
+            <Entry x:Name="EmailEntry"
+                   Placeholder="Email"
+                   BackgroundColor="White"
+                   TextColor="Black" />
+
+            <Entry x:Name="PasswordEntry"
+                   Placeholder="Senha"
+                   IsPassword="True"
+                   BackgroundColor="White"
+                   TextColor="Black" />
+
+            <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" Spacing="20">
+                <Button Text="Esqueceu a senha"
+                        BackgroundColor="Black"
+                        TextColor="White"
+                        HorizontalOptions="FillAndExpand" />
+
+                <Button Text="Tenho uma conta"
+                        BackgroundColor="Black"
+                        TextColor="White"
+                        HorizontalOptions="FillAndExpand" />
+            </StackLayout>
+
+            <Button Text="Cadastrar-se"
+                    BackgroundColor="#0000FF"
+                    TextColor="White"
+                    VerticalOptions="End" />
+
+            <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" Spacing="20" VerticalOptions="End">
+                <Button Text="Google"
+                        BackgroundColor="#0000FF"
+                        TextColor="White"
+                        HorizontalOptions="FillAndExpand" />
+
+                <Button Text="Facebook"
+                        BackgroundColor="#0000FF"
+                        TextColor="White"
+                        HorizontalOptions="FillAndExpand" />
+            </StackLayout>
+
+        </StackLayout>
+    </Grid>
+
+</ContentPage>
