@@ -2,9 +2,9 @@ using Microsoft.Maui.Controls;
 
 namespace projeto_novo_zipe_2
 {
-    public partial class MainPage : ContentPage
+    public partial class gerenciamentoEstoque : ContentPage
     {
-        public MainPage()
+        public gerenciamentoEstoque()
         {
             InitializeComponent();
         }

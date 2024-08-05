@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("projeto_novo_zipe-2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+8583bd8d1454a29281c01b71cc090487126e3e10")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+cbd22743e7e01372dc479821bad465d2f2c5c176")]
 [assembly: System.Reflection.AssemblyProductAttribute("projeto_novo_zipe-2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("projeto_novo_zipe-2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

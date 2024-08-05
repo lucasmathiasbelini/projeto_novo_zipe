@@ -1,44 +1,57 @@
-public class gerenciamentofornecedor{
+using System;
+using Microsoft.Maui.Controls;
+namespace projeto_novo_zipe_2;
 
-String criterioselecao;
-int id;
-String avaliacaodesempenho;
-string analisar;
 
-///*****************************************************************************************///
-                                /// </summary>classe Set Email <summary>///  
-public void Setemail(string email){
-    this.criterioselecao=criterioselecao;
-}
+public partial class gerenciamentofornecedor
+{
 
-///*****************************************************************************************///
-                               /// </summary> classe ID <summary>///             
-public void Setid(){
-this.id = 1000;
-}
+    String criterioselecao;
+    int id;
+    String avaliacaodesempenho;
+    string analisar;
 
-///*****************************************************************************************///
-                              /// </summary>classe Get Email <summary>///  
-public string Getemail(string email){
-    return email;
-}
+    ///*****************************************************************************************///
+    /// </summary>classe Set Email <summary>///  
+    public void Setemail(string criterioselecao)
+    {
+        this.criterioselecao = criterioselecao;
+    }
 
-///*****************************************************************************************///
+    ///*****************************************************************************************///
+    /// </summary> classe ID <summary>///             
+    public void Setid()
+    {
+        this.id = 1000;
+    }
 
-public void Setavaliacaodesempenho(string avaliacaodesempenho){
+    ///*****************************************************************************************///
+    /// </summary>classe Get Email <summary>///  
+    public string Getemail(string email)
+    {
+        return email;
+    }
 
-this.avaliacaodesempenho = avaliacaodesempenho;
+    ///*****************************************************************************************///
 
-}
-///******************************************************************************************///
+    public void Setavaliacaodesempenho(string avaliacaodesempenho)
+    {
 
-public void Getavaliacaodesempenho(string avaliacaodesempenho){
- 
-}
-public void Getanalisar(string analisar){
-    return analisar;
-}
-public void Setanalisar(){
-    this.analisar=analisar;
-}
+        this.avaliacaodesempenho = avaliacaodesempenho;
+
+    }
+    ///******************************************************************************************///
+
+    public void Getavaliacaodesempenho(string avaliacaodesempenho)
+    {
+
+    }
+    public string Getanalisar(string analisar)
+    {
+        return analisar;
+    }
+    public void Setanalisar(string analisar)
+    {
+        this.analisar = analisar;
+    }
 }

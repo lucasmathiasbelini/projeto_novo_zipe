@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fX1wpx6rX2AfAg7eO2ieViEZ5prKFgkCDmDKnKkhBJmCq6KTEgcaY5y3M7sfz3eaIALsUyYtlfnB8WKcUTg0XA==",
+  "dgSpecHash": "U31craRdAFg=",
   "success": true,
   "projectFilePath": "C:\\Users\\Aluno\\projeto_novo_zipe-1\\projeto_novo_zipe-2\\projeto_novo_zipe-2.csproj",
   "expectedPackageFiles": [
@@ -25,7 +25,7 @@
     "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.maui.graphics\\8.0.61\\microsoft.maui.graphics.8.0.61.nupkg.sha512",
     "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.maui.graphics.win2d.winui.desktop\\8.0.61\\microsoft.maui.graphics.win2d.winui.desktop.8.0.61.nupkg.sha512",
     "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.61\\microsoft.maui.resizetizer.8.0.61.nupkg.sha512",
-    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.6\\microsoft.net.illink.tasks.8.0.6.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
     "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.756\\microsoft.windows.sdk.buildtools.10.0.22621.756.nupkg.sha512",
     "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.windowsappsdk\\1.5.240311000\\microsoft.windowsappsdk.1.5.240311000.nupkg.sha512",
     "C:\\Users\\Aluno\\.nuget\\packages\\xamarin.android.glide\\4.15.1.2\\xamarin.android.glide.4.15.1.2.nupkg.sha512",
